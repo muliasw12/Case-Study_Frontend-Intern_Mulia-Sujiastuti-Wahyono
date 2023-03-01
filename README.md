@@ -17,7 +17,7 @@ React is a popular JavaScript library for building user interfaces. It was devel
 3. Reconciliation: Once the virtual DOM has been updated, React performs a process called reconciliation, which is the process of determining the difference between the previous and updated virtual DOMs. React uses this information to update only the parts of the real DOM that need to be updated, rather than re-rendering the entire page.
 4. JSX: As mentioned earlier, JSX is a syntax extension to JavaScript that allows you to write HTML-like code in your JavaScript files. JSX is not required to use React, but it makes writing React components much easier and more intuitive.
 5. State and Props: React components can have two types of data: state and props. State is used to manage data that can change over time, while props are used to pass data from a parent component to a child component.
-6. Lifecycle methods: React components have a series of lifecycle methods that allow you to perform certain actions at specific points in the component's lifecycle. For example, you can use the componentDidMount method to perform an action once a component has been mounted to the DOM.
+6. Lifecycle methods: React components have a series of lifecycle methods that allow you to perform certain actions at specific points in the component's lifecycle.
 
 ## Deployment
 Sorry, for this project I cannot deploy this repo because it's cannot display anything at browser :(
